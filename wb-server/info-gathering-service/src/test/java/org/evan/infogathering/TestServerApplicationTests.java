@@ -1,4 +1,4 @@
-package org.evan.testserver;
+package org.evan.infogathering;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

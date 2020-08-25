@@ -1,4 +1,4 @@
-package org.evan.testserver;
+package org.evan.infogathering;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
