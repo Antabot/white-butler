@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.evan</groupId>
-    <artifactId>test-server</artifactId>
+    <artifactId>info-gathering-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>test-server</name>
+    <name>info-gathering-service</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
