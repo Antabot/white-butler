@@ -9,10 +9,10 @@ import org.springframework.web.bind.annotation.RestController;
 @EnableDiscoveryClient
 @SpringBootApplication
 @RestController
-public class TestServerApplication {
+public class InfoGatheringServiceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(TestServerApplication.class, args);
+        SpringApplication.run(InfoGatheringServiceApplication.class, args);
     }
 
     @GetMapping("/hello")
